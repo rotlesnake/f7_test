@@ -1,4 +1,4 @@
-# LED_PANEL CONTROL
+# F7 Mobile App
 
 ## Framework7 CLI Options
 
